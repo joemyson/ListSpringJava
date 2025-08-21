@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.JSC.dsList.DTO.GameDTO;
 import com.JSC.dsList.Service.GameService;
-import com.JSC.dsList.entities.Game;
 
 @RestController
 @RequestMapping(value = "/game")
